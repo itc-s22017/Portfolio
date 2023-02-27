@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+.contact-title {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 65px;
+}
+
+#contact form {
+  width: 80%;
+  margin: 0 auto;
+  /* text-align: center; */
+}
+
+#contact p {
+  margin-bottom: 15px;
+}
+
+#contact input,
+textarea {
+  border: 1px solid #bdbfc1;
+}
+
+#contact textarea {
+  width: 100%;
+}
+
+#contact .button input {
+  width: 100px;
+  height: 30px;
+  background-color: #f1f7f9;
+}
+
+#contact .button input:hover {
+  background-color: #dbf5fe;
+}
